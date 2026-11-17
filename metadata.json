@@ -1,0 +1,10 @@
+{
+  "name": "Muse Boardroom",
+  "description": "Multi-agent AI command center to broadcast prompts, chat 1-on-1, and connect In-App Browser AI sessions and API agents.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

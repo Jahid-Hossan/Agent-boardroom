@@ -1,0 +1,32 @@
+# Gradle & Android build artifacts
+.gradle/
+.kotlin/
+.build-outputs/
+build/
+app/build/
+captures/
+local.properties
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+
+# Keystores & secrets
+.env
+.env.local
+.env.*.local
+*.jks
+!debug.keystore
+!debug.keystore.base64
+
+# Outputs & logs
+*.apk
+*.aab
+*.ap_
+*.dex
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+.aistudio/
